@@ -3,3 +3,5 @@ Run tester.py:
 uv run python -m src.tester.tester
 ```
 You have to create/have a function that return True or False based on the map.Import it at the top of tester.py.
+
+There are tests that are not mandatory, but only useful.
